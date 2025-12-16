@@ -1,0 +1,3 @@
+I learnt how to make a pull request 
+How to merge file together
+how to fork a repository
